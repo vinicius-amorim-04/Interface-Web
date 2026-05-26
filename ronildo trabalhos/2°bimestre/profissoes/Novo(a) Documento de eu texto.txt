@@ -1,0 +1,460 @@
+Perito em Computação Forense
+
+O Perito em Computação Forense é o profissional que investiga crimes e problemas envolvendo tecnologia, computadores, celulares, internet e sistemas digitais.
+Ele analisa provas digitais para descobrir o que aconteceu em casos como invasões, golpes, vazamento de dados e crimes virtuais.
+
+
+---
+
+O que é Computação Forense?
+
+A Computação Forense é uma área da T.I. que une:
+
+tecnologia;
+
+investigação;
+
+segurança digital;
+
+análise de provas.
+
+
+O objetivo é encontrar, recuperar e analisar informações digitais que possam servir como prova.
+
+
+---
+
+O que um Perito em Computação Forense faz?
+
+Esse profissional pode:
+
+Investigar invasões de sistemas;
+
+Recuperar arquivos apagados;
+
+Descobrir fraudes digitais;
+
+Analisar celulares e computadores;
+
+Investigar golpes virtuais;
+
+Encontrar rastros deixados por hackers;
+
+Analisar conversas, e-mails e arquivos;
+
+Produzir laudos técnicos;
+
+Ajudar a polícia e empresas em investigações.
+
+
+
+---
+
+Exemplos de casos investigados
+
+Hackers invadindo contas;
+
+Roubo de dados;
+
+Golpes bancários;
+
+Fraudes em empresas;
+
+Vazamento de informações;
+
+Perfis falsos;
+
+Crimes virtuais;
+
+Ataques cibernéticos;
+
+Uso ilegal de sistemas.
+
+
+
+---
+
+Onde esse profissional trabalha?
+
+Pode trabalhar em:
+
+Delegacias especializadas;
+
+Polícia Civil;
+
+Polícia Federal;
+
+Empresas de segurança digital;
+
+Bancos;
+
+Empresas privadas;
+
+Escritórios de perícia;
+
+Tribunais;
+
+Empresas de tecnologia.
+
+
+
+---
+
+Faculdades indicadas
+
+As principais faculdades para seguir nessa área são:
+
+Ciência da Computação;
+
+Sistemas de Informação;
+
+Segurança da Informação;
+
+Engenharia da Computação;
+
+Análise e Desenvolvimento de Sistemas.
+
+
+Depois da faculdade, muitas pessoas fazem:
+
+cursos de cibersegurança;
+
+especialização em perícia digital;
+
+certificações.
+
+
+
+---
+
+Matérias importantes para a área
+
+Você estudará assuntos como:
+
+Redes de computadores;
+
+Segurança da informação;
+
+Programação;
+
+Banco de dados;
+
+Sistemas operacionais;
+
+Criptografia;
+
+Investigação digital;
+
+Direito digital.
+
+
+
+---
+
+Habilidades importantes
+
+Um bom perito precisa ter:
+
+atenção aos detalhes;
+
+raciocínio lógico;
+
+paciência;
+
+ética;
+
+curiosidade;
+
+conhecimento técnico;
+
+capacidade de investigação.
+
+
+
+---
+
+Ferramentas usadas
+
+Algumas ferramentas utilizadas são:
+
+Autopsy;
+
+FTK;
+
+EnCase;
+
+Wireshark;
+
+Kali Linux.
+
+
+Esses programas ajudam na investigação e análise de dados.
+
+
+---
+
+Salário no Brasil
+
+O salário varia bastante.
+
+Média:
+
+Iniciante: R$ 3.000 a R$ 6.000
+
+Experiente: R$ 8.000 a R$ 15.000+
+
+Peritos federais podem ganhar salários ainda maiores.
+
+
+
+---
+
+Mercado de trabalho
+
+Essa área está crescendo muito porque:
+
+os crimes digitais aumentaram;
+
+empresas precisam proteger dados;
+
+ataques virtuais estão mais comuns.
+
+
+Por isso, existe uma grande procura por profissionais especializados em segurança e perícia digital.
+
+
+---
+
+Diferença entre Hacker Ético e Perito Forense
+
+Hacker Ético
+
+tenta encontrar falhas nos sistemas para melhorar a segurança.
+
+
+Perito em Computação Forense
+
+investiga crimes e analisa provas digitais após um incidente.
+
+
+As duas áreas podem trabalhar juntas.
+
+
+---
+
+Pontos positivos da profissão
+
+Salários bons;
+
+Área em crescimento;
+
+Trabalho tecnológico;
+
+Alta demanda;
+
+Possibilidade de trabalhar para grandes empresas ou polícia.
+
+
+
+---
+
+Pontos difíceis
+
+Exige muito estudo;
+
+Tecnologia muda rapidamente;
+
+Casos podem ser complexos;
+
+Grande responsabilidade com dados e provas.
+
+
+
+---
+
+Curiosidades
+
+Arquivos apagados muitas vezes podem ser recuperados;
+
+Celulares também podem passar por perícia;
+
+Mensagens e históricos digitais podem ajudar em investigações;
+
+A área é muito usada em crimes virtuais modernos.
+
+
+
+---
+
+Resumo
+
+O Perito em Computação Forense é o profissional responsável por investigar crimes digitais e analisar provas tecnológicas.
+É uma profissão da área de T.I. que mistura tecnologia, segurança e investigação, sendo uma das áreas que mais crescem atualmente.
+
+
+
+
+
+
+
+
+
+
+
+
+
+# Carreira
+
+A área de **Computação Forense** é uma carreira da Tecnologia da Informação voltada para investigação digital, segurança e análise de provas eletrônicas.
+
+É uma carreira em crescimento devido ao aumento de:
+
+* crimes virtuais;
+* golpes digitais;
+* ataques cibernéticos;
+* vazamento de dados;
+* fraudes online.
+
+## Onde pode atuar
+
+O profissional pode trabalhar em:
+
+* delegacias especializadas;
+* Polícia Civil;
+* Polícia Federal;
+* bancos;
+* empresas de tecnologia;
+* empresas de segurança digital;
+* tribunais;
+* escritórios de perícia;
+* empresas privadas.
+
+## Mercado de trabalho
+
+O mercado está aquecido porque empresas e governos precisam proteger sistemas e investigar incidentes digitais.
+
+## Salário no Brasil
+
+Média salarial:
+
+* Iniciante: R$ 3.000 a R$ 6.000
+* Experiente: R$ 8.000 a R$ 15.000+
+* Peritos federais podem ganhar ainda mais.
+
+## Pontos positivos
+
+* alta demanda;
+* bons salários;
+* área moderna e tecnológica;
+* possibilidade de crescimento;
+* atuação em grandes empresas e órgãos públicos.
+
+## Pontos difíceis
+
+* exige estudo constante;
+* tecnologia muda rapidamente;
+* grande responsabilidade;
+* casos complexos e delicados.
+
+---
+
+# Curso
+
+Para entrar na área, normalmente a pessoa faz uma faculdade relacionada à tecnologia.
+
+## Cursos mais indicados
+
+* Ciência da Computação
+* Sistemas de Informação
+* Segurança da Informação
+* Engenharia da Computação
+* Análise e Desenvolvimento de Sistemas
+
+## Matérias importantes
+
+Durante os estudos, aprende-se:
+
+* redes de computadores;
+* programação;
+* segurança da informação;
+* banco de dados;
+* sistemas operacionais;
+* criptografia;
+* direito digital;
+* investigação digital.
+
+## Especializações
+
+Depois da faculdade, muitos profissionais fazem:
+
+* cursos de cibersegurança;
+* especialização em perícia digital;
+* certificações profissionais.
+
+## Ferramentas estudadas
+
+Algumas ferramentas usadas na área:
+
+* Autopsy
+* FTK
+* EnCase
+* Wireshark
+* Kali Linux
+
+---
+
+# Profissão
+
+O **Perito em Computação Forense** é o profissional responsável por investigar crimes digitais e analisar provas tecnológicas.
+
+Ele trabalha buscando rastros digitais para descobrir como um crime virtual aconteceu.
+
+## O que faz
+
+Esse profissional pode:
+
+* investigar invasões;
+* recuperar arquivos apagados;
+* analisar celulares e computadores;
+* investigar golpes virtuais;
+* descobrir fraudes digitais;
+* analisar e-mails, mensagens e arquivos;
+* identificar rastros de hackers;
+* produzir laudos técnicos;
+* ajudar empresas e polícia em investigações.
+
+## Exemplos de casos investigados
+
+* roubo de dados;
+* hackers invadindo sistemas;
+* golpes bancários;
+* perfis falsos;
+* vazamento de informações;
+* ataques cibernéticos;
+* uso ilegal de sistemas.
+
+## Habilidades importantes
+
+Um bom perito precisa ter:
+
+* atenção aos detalhes;
+* raciocínio lógico;
+* ética;
+* paciência;
+* curiosidade;
+* capacidade investigativa;
+* conhecimento técnico.
+
+## Diferença para Hacker Ético
+
+### Hacker Ético
+
+Procura falhas em sistemas para melhorar a segurança.
+
+### Perito em Computação Forense
+
+Investiga crimes e analisa provas digitais após incidentes.
+
+As duas áreas podem trabalhar juntas.
+
+
