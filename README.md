@@ -1,22 +1,46 @@
-# Interface Web
+# 🌐 Interface Web
 
-## Sobre
+## 📚 Sobre
 
-Nesta disciplina aprendi os conceitos básicos de desenvolvimento de interfaces para a web, focando na criação de páginas organizadas, responsivas e fáceis de usar. Estudei como estruturar conteúdos, aplicar estilos visuais e melhorar a experiência do usuário em aplicações web.
+Nesta disciplina, aprendi os fundamentos do **desenvolvimento de interfaces para a web**, com foco na criação de páginas organizadas, responsivas e fáceis de usar.
 
-## O que aprendi
+Durante os estudos, trabalhei com estruturação de conteúdo, estilização visual, organização de layouts e conceitos relacionados à **experiência do usuário (UX)**.
 
-- Estruturação de páginas com HTML;
-- Estilização de interfaces com CSS;
-- Princípios de design e usabilidade;
-- Desenvolvimento de layouts responsivos;
-- Organização de elementos visuais;
-- Boas práticas para experiência do usuário (UX).
+---
 
-## Conclusão
+## 🧠 O que aprendi
 
-A disciplina me ajudou a compreender como criar interfaces web funcionais e atrativas, combinando aspectos visuais e técnicos para oferecer uma melhor experiência aos usuários.
+| Área                  | Conhecimentos                                        |
+| --------------------- | ---------------------------------------------------- |
+| 🏗️ **HTML**          | Estruturação e organização de páginas                |
+| 🎨 **CSS**            | Estilização e criação de layouts                     |
+| 📱 **Responsividade** | Adaptação de interfaces para diferentes dispositivos |
+| ✨ **Design**          | Organização e hierarquia dos elementos visuais       |
+| 👤 **UX**             | Usabilidade e experiência do usuário                 |
+| 🧹 **Boas práticas**  | Organização e estruturação do código                 |
 
-## Certificados de cursos feitos
+---
 
-https://www.credly.com/go/22OgWgL16yrQXqmpncvZtA
+## 💻 Principais tecnologias
+
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css" />
+</p>
+
+---
+
+## 🎓 Certificados
+
+🏆 <a href="https://www.credly.com/go/22OgWgL16yrQXqmpncvZtA">Certificado — Interface Web</a>
+
+---
+
+## 🚀 Conclusão
+
+A disciplina me ajudou a compreender como desenvolver **interfaces web funcionais, organizadas e visualmente atrativas**, combinando conhecimentos técnicos de desenvolvimento com princípios de design e experiência do usuário.
+
+---
+
+<p align="center">
+  <strong>🌐 Aprendendo, criando e evoluindo através da prática.</strong>
+</p>
